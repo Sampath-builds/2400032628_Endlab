@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f4f4f4;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+}
+
+.heading {
+  background: #333;
+  color: white;
+  padding: 15px;
+  text-align: center;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.git-box {
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.git-box h2 {
+  margin-top: 0;
+}
+
+.git-commands {
+  background: #222;
+  color: #0f0;
+  padding: 10px;
+  border-radius: 6px;
+  font-family: "Courier New", monospace;
+  white-space: pre-line;
+}
